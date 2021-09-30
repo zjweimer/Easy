@@ -1,0 +1,91 @@
+html{
+  
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+color:floralwhite;
+font-size: xx-large;
+}
+.blockone{
+background-color: #0092ff;
+text-align: center;
+height: 300px;
+width: 100%;
+padding-top: 200px;
+float: left;
+}
+.blocktwo{
+    background-color: #eaad21;
+    text-align: center;
+    height: 300px;
+    width: 50%;
+    padding-top: 200px;
+    float:left;
+    }
+    .blockthree{
+        background-color: #ffe200;
+        text-align: center;
+        height: 300px;
+        width: 50%;
+        padding-top: 200px;
+        float: right;
+        }
+        .blockfour{
+            background-color: #65bcb5;
+            text-align: center;
+            height: 300px;
+            width: 75%;
+            padding-top: 200px;
+            float: left;
+            }
+            .blockfive{
+                background-color: #0092ff;
+                text-align: center;
+                height: 300px;
+                width: 25%;
+                padding-top: 200px;
+                float: right;
+                }
+ .blocksix{
+     
+    background-color: #eaad21;
+     text-align: center;
+      height: 300px;
+    width: 33.33%;
+ padding-top: 200px;
+   float: left;
+    }
+    .blockseven{
+     
+        background-color: #ffe200;
+         text-align: center;
+          height: 300px;
+        width: 33.33%;
+     padding-top: 200px;
+       float: left;
+        }
+        .blockeight{
+     
+            background-color: #eaad21;
+             text-align: center;
+              height: 300px;
+            width: 33.33%;
+         padding-top: 200px;
+           float: right;
+            }
+            .blocknine{
+                background-color: #65bcb5;
+                text-align: center;
+                height: 300px;
+                width: 100%;
+                padding-top: 200px;
+                float: left;
+                }
+                .blockten{
+                    background-color: #0092ff;
+                    text-align: center;
+                    height: 100px;
+                    width: 100%;
+                    padding-top: 35px;
+                    float: left;
+                    }
